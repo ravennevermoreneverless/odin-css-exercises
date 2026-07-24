@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.chai {
+    background-color: #F72A60;
+    font-family: "Verdana", "DeJavu Sans", sans-serif;
+}
+
+
+#raven {
+    color: rgb(135, 168, 255);
+    font-size: 36px;
+}
+
+.chai.pinky {
+    font-size: 36px;
+}
+
+#raven-brown {
+    background-color: #3BFF36;
+    font-size: 24px;
+    font-weight: bolder;
+}
