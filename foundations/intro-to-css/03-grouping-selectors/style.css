@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.raven-brown,
+.binky {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.raven-brown {
+    background-color: black;
+    color: white;
+}
+
+.binky {
+    background-color: yellow;
+}
